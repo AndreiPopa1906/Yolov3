@@ -39,4 +39,4 @@ This project is perfect for anyone looking to:
    ```
 
 ## 🤓 Learn as You Build
-Check out the well-documented codebase to follow every step of the process—from dataset preprocessing to evaluation. Perfect for building your portfolio or acing that next job interview.
+Check out the well-documented codebase to follow every step of the process—from dataset preprocessing to evaluation.
